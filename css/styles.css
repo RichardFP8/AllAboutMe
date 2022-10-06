@@ -1,0 +1,11 @@
+body {
+    background-color: antiquewhite;
+    margin: 0; padding: 0;
+    
+}
+div {
+    text-align: center;
+    border: 1px solid black;
+    color:blueviolet;
+    
+}
